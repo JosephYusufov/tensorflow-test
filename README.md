@@ -1,5 +1,8 @@
 # TensorFlow Learning Log
+
 Joseph Yusufov
+
+https://www.youtube.com/watch?v=tPYj3fFJGjk -- 1:00:00
 ***
 ## 2020-08-20
 A Tensor is an abstraction used to refer to any type of matrix, whether it be 1d (Vector), 2d, or n-dimensional.
